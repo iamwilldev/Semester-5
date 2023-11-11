@@ -1,2 +1,3 @@
-# REPO SEMESTER 5
-Repo ini berisikan data-data yang bersumber dari Semester 5
+# Machine Learning
+
+Branch ini berisikan data-data yang bersumber dari Mata Kuliah Machine Learning
