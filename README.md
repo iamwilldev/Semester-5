@@ -1,2 +1,3 @@
-# REPO SEMESTER 5
-Repo ini berisikan data-data yang bersumber dari Semester 5
+# Pengolahan Citra
+
+Branch ini berisikan data-data yang bersumber dari Mata Kuliah Pengolahan Citra
